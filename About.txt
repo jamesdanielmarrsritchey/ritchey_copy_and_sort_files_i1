@@ -1,0 +1,34 @@
+# About
+
+NAME: Ritchey Copy And Sort Files
+IMPLEMENTATION: 1
+VERSION: 1
+LONG IDENTIFIER: Ritchey Copy And Sort Files i1 v1
+SHORT IDENTIFIER: RCSFi1v1
+AUTHOR: James Daniel Marrs Ritchey
+
+## Overview
+
+Ritchey Copy And Sort Files is a user-defined PHP function for copying files, and sorting the copies by data such as year, month, and day.
+
+## Licensing
+
+This project is hereby licensed under the Ritchey Permissive License v19.
+
+## History
+
+Releases:
+- Project started March 24, 2025.
+- Version 1 completed March 24, 2025.
+
+Highlighted Changes:
+- 
+
+## Notes
+
+Technical:
+- Fails if there's a file collision.
+- Expects Linux-style paths "/path/to/something".
+
+Other:
+- 
